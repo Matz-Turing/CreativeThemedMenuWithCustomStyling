@@ -1,0 +1,108 @@
+h1 {
+    color: orange;
+}
+.menubar{  
+    width: 90%;
+    padding:0px;
+    background-color: black;
+    display: flex; 
+    margin:0 auto;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.menu {   
+    display: flex;
+    align-items: center;
+    margin: 0;
+    list-style-type: none;
+}
+.menu .item{  
+    position: relative;   
+    border-radius: 10px;
+}
+.menu .item:hover{
+    background-color: blue;
+    border-radius: 10px;
+}
+.menu .item a{
+    color: #ffffff; 
+    padding:16px;
+    text-decoration: none;
+    display: flex;
+    border-radius: 10px;
+}
+.menu .item a:hover{
+    background-color: black;
+}
+.submenu{
+    display: none;
+    position: absolute;
+    width:100%;  
+    border-radius: 10px;
+}
+.sd-item:hover .submenu{
+    display: flex;  
+}
+.submenu .sd-item{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    top: 100%;
+    width: 100%;
+    border-radius: 10px;
+ }
+.submenu .sd-item a{
+    width:100%;
+    padding:16px;
+    background-color: black;
+    color: #fff; 
+    margin: 1px 0;
+}
+.submenu .sd-item a:hover {
+    background-color: blue;
+}
+.menu .item:hover .submenu{
+    background-color: black; 
+    display: flex;
+}
+.submenu2{
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: 0;
+    width:100%;  
+    border-radius: 10px;
+}
+.sd-item:hover .submenu2{
+    display: flex;  
+}
+.submenu2 .sd-item2{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    top: 100%;
+    width: 100%;
+    border-radius: 10px;
+ }
+.submenu2 .sd-item2 a{
+    width:100%;
+    padding:16px;
+    background-color: rgb(0, 0, 0);
+    color: gold; 
+    margin: 1px 0;
+}
+.submenu2 .sd-item2 a:hover {
+    background-color: blue;
+}
+.sd-item:hover .submenu2{
+    background-color: black; 
+    display: flex;
+}
+body {
+    background-image: url('sif.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
