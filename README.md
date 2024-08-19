@@ -17,7 +17,7 @@ This project is a functional menu developed as a classroom assignment using HTML
 
 1.  **Clone the Repository:**
     *   Use Git to clone the repository to your local machine.
-    *   Example: `git clone https://github.com/YourUsername/DarkSoulsThemedMenu.git`
+    *   Example: `git clone https://github.com/YourUsername/CreativeThemedMenuWithCustomStyling.git`
 
 2.  **Run the Project:**
     *   Open the `index.html` file in your web browser to view and interact with the menu.
