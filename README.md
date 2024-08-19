@@ -1,28 +1,28 @@
 # Dark Souls Themed Menu
 
-![Main Screenshot](img/1.png)
+![Captura de Tela Principal](img/1.png)
 
-This project is a functional menu developed as a classroom assignment using HTML and CSS. The design is inspired by the _Dark Souls_ game series.
+Este projeto é um menu funcional desenvolvido como um trabalho de sala de aula utilizando HTML e CSS. O design é inspirado na série de jogos _Dark Souls_.
 
-### Project Overview
+### Visão Geral do Projeto
 
-*   **Objective:**
-    *   Create a functional menu with a theme of choice.
-*   **Theme:**
-    *   _Dark Souls_ inspired design with elements that reflect the game's dark and medieval style.
+*   **Objetivo:**
+    *   Criar um menu funcional com um tema à escolha.
+*   **Tema:**
+    *   Design inspirado em _Dark Souls_ com elementos que refletem o estilo sombrio e medieval do jogo.
 
- ![Feature Screenshot 1](img/2.png)
+![Captura de Tela de Recursos 1](img/2.png)
 
-### How to Use
+### Como Usar
 
-1.  **Clone the Repository:**
-    *   Use Git to clone the repository to your local machine.
-    *   Example: `git clone https://github.com/YourUsername/CreativeThemedMenuWithCustomStyling.git`
+1.  **Clone o Repositório:**
+    *   Use o Git para clonar o repositório para sua máquina local.
+    *   Exemplo: `git clone https://github.com/SeuNomeDeUsuario/MenuPersonalizadoComTematica.git`
 
-2.  **Run the Project:**
-    *   Open the `index.html` file in your web browser to view and interact with the menu.
+2.  **Execute o Projeto:**
+    *   Abra o arquivo `index.html` no seu navegador para visualizar e interagir com o menu.
 
-### Credits
+### Créditos
 
-Developed by Mateus S.  
+Desenvolvido por Mateus S.  
 GitHub: Matz-Turing
